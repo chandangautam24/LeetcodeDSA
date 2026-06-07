@@ -13,10 +13,12 @@
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -27,4 +29,12 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
