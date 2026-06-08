@@ -44,4 +44,12 @@
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
