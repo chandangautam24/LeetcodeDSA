@@ -14,11 +14,13 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -37,4 +39,9 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
