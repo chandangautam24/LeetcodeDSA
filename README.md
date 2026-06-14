@@ -59,6 +59,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0328-odd-even-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -66,6 +67,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -111,5 +114,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
