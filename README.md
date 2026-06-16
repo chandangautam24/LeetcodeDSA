@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 ## Iterator
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
@@ -133,4 +135,16 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [2140-solving-questions-with-brainpower](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2140-solving-questions-with-brainpower) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
