@@ -8,6 +8,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0136-single-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [0997-find-the-town-judge](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0997-find-the-town-judge) |
 | [2140-solving-questions-with-brainpower](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2140-solving-questions-with-brainpower) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Linked List
 |  |
@@ -147,4 +149,24 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
