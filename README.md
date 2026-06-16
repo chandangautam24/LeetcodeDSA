@@ -10,6 +10,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [0997-find-the-town-judge](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0997-find-the-town-judge) |
+| [2140-solving-questions-with-brainpower](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3689-maximum-total-subarray-value-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
@@ -131,4 +132,5 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
+| [2140-solving-questions-with-brainpower](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2140-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->
