@@ -13,6 +13,7 @@
 | [0997-find-the-town-judge](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0997-find-the-town-judge) |
 | [2140-solving-questions-with-brainpower](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3689-maximum-total-subarray-value-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -62,6 +63,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Linked List
 |  |
 | ------- |
@@ -153,20 +155,25 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
