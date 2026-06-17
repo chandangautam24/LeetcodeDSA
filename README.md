@@ -42,6 +42,7 @@
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [1108-defanging-an-ip-address](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1108-defanging-an-ip-address) |
+| [3614-process-string-with-special-operations-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
@@ -119,6 +120,7 @@
 ## Simulation
 |  |
 | ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
