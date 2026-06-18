@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0002-add-two-numbers) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Greedy
 |  |
 | ------- |
