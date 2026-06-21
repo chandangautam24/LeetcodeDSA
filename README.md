@@ -12,6 +12,7 @@
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [0997-find-the-town-judge](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0997-find-the-town-judge) |
 | [1732-find-the-highest-altitude](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2140-solving-questions-with-brainpower](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3689-maximum-total-subarray-value-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Stack
 |  |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
+| [1833-maximum-ice-cream-bars](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -187,4 +190,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1732-find-the-highest-altitude) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
