@@ -25,6 +25,7 @@
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0997-find-the-town-judge](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0997-find-the-town-judge) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Tree
 |  |
 | ------- |
@@ -45,12 +46,14 @@
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [1108-defanging-an-ip-address](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1108-defanging-an-ip-address) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Backtracking
 |  |
 | ------- |
