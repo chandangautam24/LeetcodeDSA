@@ -2,11 +2,14 @@ class Solution {
 public:
     int maximumElementAfterDecrementingAndRearranging(vector<int>& arr) {
         int n=arr.size();
-        sort(arr.begin(),arr.end());
-         arr.front()=1;
-        for(int i=1; i<n; i++){
-          arr[i]=min(arr[i],arr[i-1]+1);
+        vector<int>ans(n+1,0);
+        for(auto &i: arr){
+            ans[min(i,n)]++;
         }
-        return arr[n-1];
+        int temp=0;
+        for(int i=1; i<=n; i++){
+            temp=min(i,temp+ans[i]);
+        }
+        return temp;
     }
 };
