@@ -50,6 +50,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
+| [0520-detect-capital](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
