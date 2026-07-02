@@ -56,6 +56,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2390-removing-stars-from-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2390-removing-stars-from-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
 ## Counting
@@ -118,6 +119,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2390-removing-stars-from-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
