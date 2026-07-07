@@ -109,6 +109,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
 |  |
 | ------- |
