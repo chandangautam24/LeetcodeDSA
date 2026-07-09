@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0203-remove-linked-list-elements) |
@@ -187,6 +188,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -195,6 +197,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Binary Indexed Tree
@@ -210,6 +213,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Ordered Set
