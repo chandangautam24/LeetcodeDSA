@@ -21,6 +21,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
@@ -88,6 +89,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Linked List
 |  |
@@ -197,6 +199,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
