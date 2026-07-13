@@ -16,6 +16,7 @@
 | [1288-remove-covered-intervals](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1472-design-browser-history) |
 | [1732-find-the-highest-altitude](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -243,6 +244,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1732-find-the-highest-altitude) |
 ## Counting Sort
 |  |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Doubly-Linked List
 |  |
 | ------- |
