@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0016-3sum-closest) |
+| [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0136-single-number) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
@@ -80,10 +82,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
 | [0547-number-of-provinces](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -265,5 +269,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [2643-row-with-maximum-ones](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
