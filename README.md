@@ -86,12 +86,14 @@
 | [0046-permutations](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
 | [0547-number-of-provinces](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
@@ -158,11 +160,13 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0997-find-the-town-judge) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Union-Find
 |  |
 | ------- |
