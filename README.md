@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0015-3sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0151-reverse-words-in-a-string) |
@@ -277,4 +279,8 @@
 | ------- |
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [2643-row-with-maximum-ones](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2643-row-with-maximum-ones) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
