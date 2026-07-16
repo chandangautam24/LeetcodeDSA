@@ -29,6 +29,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2643-row-with-maximum-ones](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2643-row-with-maximum-ones) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3689-maximum-total-subarray-value-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -131,6 +132,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
 |  |
