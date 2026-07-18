@@ -14,6 +14,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
+| [0739-daily-temperatures](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 | [0997-find-the-town-judge](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0997-find-the-town-judge) |
 | [1288-remove-covered-intervals](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2390-removing-stars-from-a-string) |
@@ -285,4 +287,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
