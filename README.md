@@ -16,6 +16,7 @@
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [0739-daily-temperatures](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 | [0997-find-the-town-judge](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
@@ -265,6 +267,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1732-find-the-highest-altitude) |
 ## Counting Sort
@@ -275,6 +278,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Doubly-Linked List
