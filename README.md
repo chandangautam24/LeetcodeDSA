@@ -44,6 +44,7 @@
 | [0076-minimum-window-substring](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0997-find-the-town-judge) |
@@ -77,6 +78,7 @@
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1108-defanging-an-ip-address) |
@@ -291,6 +293,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
