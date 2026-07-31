@@ -145,6 +145,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
