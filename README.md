@@ -154,6 +154,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0050-powx-n) |
+| [0728-self-dividing-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0728-self-dividing-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
