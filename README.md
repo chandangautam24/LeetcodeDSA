@@ -20,6 +20,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1037-valid-boomerang](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1037-valid-boomerang) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -155,6 +156,7 @@
 | [0002-add-two-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0728-self-dividing-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0728-self-dividing-numbers) |
+| [1037-valid-boomerang](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1037-valid-boomerang) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -332,4 +334,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0739-daily-temperatures) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
