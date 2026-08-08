@@ -2,14 +2,12 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int n=nums.size();
-        unordered_map<int,int>mpp;
-        for(int i=0; i<n; i++){
-            mpp[nums[i]]++;
+        sort(nums.begin(),nums.end());
+        for(int i=1; i<n; i+=3){
+            if(nums[i]!=nums[i-1]){
+                return nums[i-1];
+            }
         }
-        for(auto i: mpp){
-            if(i.second==1)
-            return i.first;
-        }
-        return -1;
+        return nums[n-1];
     }
 };
