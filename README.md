@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
@@ -216,6 +217,7 @@
 | ------- |
 | [0078-subsets](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0137-single-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
