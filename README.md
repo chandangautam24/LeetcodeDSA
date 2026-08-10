@@ -18,6 +18,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [0525-contiguous-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0525-contiguous-array) |
+| [0697-degree-of-an-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -53,6 +54,7 @@
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0525-contiguous-array) |
+| [0697-degree-of-an-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0697-degree-of-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0997-find-the-town-judge) |
