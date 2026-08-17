@@ -89,6 +89,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0151-reverse-words-in-a-string) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0728-self-dividing-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0728-self-dividing-numbers) |
 | [1037-valid-boomerang](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1037-valid-boomerang) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -221,12 +223,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2390-removing-stars-from-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0137-single-number-ii) |
