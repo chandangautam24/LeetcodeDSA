@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0260-single-number-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -214,11 +216,13 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 ## Simulation
 |  |
@@ -352,6 +356,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [2643-row-with-maximum-ones](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2643-row-with-maximum-ones) |
 ## String Matching
 |  |
