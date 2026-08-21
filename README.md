@@ -22,6 +22,7 @@
 | [0525-contiguous-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0739-daily-temperatures) |
+| [0766-toeplitz-matrix](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0766-toeplitz-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0997-find-the-town-judge) |
@@ -365,6 +366,7 @@
 | ------- |
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0200-number-of-islands) |
+| [0766-toeplitz-matrix](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0766-toeplitz-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2643-row-with-maximum-ones) |
 ## String Matching
 |  |
