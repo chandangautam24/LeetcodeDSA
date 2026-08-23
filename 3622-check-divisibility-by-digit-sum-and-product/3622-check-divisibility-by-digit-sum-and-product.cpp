@@ -21,10 +21,8 @@ int product(int n){
     return res;
 }
     bool checkDivisibility(int n) {
-        int k=sum(n);
-        int m=product(n);
-        int z=k+m;
-        if(n%z==0){
+        int k=sum(n)+product(n);
+        if(n%k==0){
             return true;
         }
         return false;
