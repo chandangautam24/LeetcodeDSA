@@ -187,6 +187,7 @@
 | [1037-valid-boomerang](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1037-valid-boomerang) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2485-find-the-pivot-integer](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2485-find-the-pivot-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -342,6 +343,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2485-find-the-pivot-integer](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2485-find-the-pivot-integer) |
 ## Counting Sort
 |  |
 | ------- |
