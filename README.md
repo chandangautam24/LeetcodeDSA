@@ -49,6 +49,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3689-maximum-total-subarray-value-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -78,6 +79,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -181,6 +183,7 @@
 | [0203-remove-linked-list-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -397,4 +400,8 @@
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1037-valid-boomerang) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
