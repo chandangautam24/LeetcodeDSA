@@ -404,4 +404,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
