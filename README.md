@@ -410,4 +410,5 @@
 | [0175-combine-two-tables](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0196-delete-duplicate-emails) |
+| [0595-big-countries](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
