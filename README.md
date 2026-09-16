@@ -412,4 +412,5 @@
 | [0196-delete-duplicate-emails](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0595-big-countries) |
+| [0627-swap-sex-of-employees](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
