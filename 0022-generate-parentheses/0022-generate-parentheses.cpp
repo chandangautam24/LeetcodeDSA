@@ -1,22 +1,22 @@
 class Solution {
 public:
-void solve(int n, int op, int cl,string temp,vector<string>&ans){
-  if(cl==n){
-    ans.push_back(temp);
-    return;
-  }
-  if(op<n){
-    solve(n,op+1,cl,temp+"(",ans);
-  }
-  if(cl<op){
-    solve(n,op,cl+1,temp+")",ans);
-  }
+void solve(int op,int cl,int n,string res,vector<string>&ans){
+    if(cl==n){
+        ans.push_back(res);
+        return;
+    }
+    if(op<n){
+        solve(op+1,cl,n,res+'(',ans);
+    }
+    if(cl<op){
+        solve(op,cl+1,n,res+')',ans);
+    }
 
 }
     vector<string> generateParenthesis(int n) {
-        string temp="";
+        string res="";
         vector<string>ans;
-        solve(n, 0, 0, temp, ans);
+        solve(0,0,n,res,ans);
         return ans;
     }
 };
