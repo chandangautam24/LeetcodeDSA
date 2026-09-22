@@ -419,4 +419,8 @@
 | [0584-find-customer-referee](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0595-big-countries) |
 | [0627-swap-sex-of-employees](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0627-swap-sex-of-employees) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
