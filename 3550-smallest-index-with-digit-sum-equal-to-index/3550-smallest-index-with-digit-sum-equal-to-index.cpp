@@ -1,20 +1,21 @@
 class Solution {
 public:
-int sumdigits(int x){
-    int r=x;
-    int sum=0;
+bool digisum(int x,int i){
+    long long sum=0;
     while(x>0){
-      int rev=x%10;
-      sum+=rev;
-      x/=10;
+     int digi=x%10;
+     sum+=digi;
+     x=x/10;
     }
-    cout<<sum<<endl;
-    return sum;
+    if(sum==i){
+        return true;
+    }
+    return false;
 }
     int smallestIndex(vector<int>& nums) {
         int n=nums.size();
         for(int i=0; i<n; i++){
-            if(sumdigits(nums[i])==i){
+            if(digisum(nums[i],i)){
                 return i;
             }
         }
