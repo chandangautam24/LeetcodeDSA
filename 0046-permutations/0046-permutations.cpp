@@ -1,19 +1,28 @@
 class Solution {
-public://backtracking
-void solve(int i,vector<int>&nums,vector<vector<int>>&ans){
-    if(i==nums.size()){
-        ans.push_back(nums);
+public:
+using vvi=vector<vector<int>>;
+using vi=vector<int>;
+void permutations(int n,vi&res,vvi&ans,vi&nums,vi&picked){
+    if(res.size()==n){
+        ans.push_back(res);
         return;
     }
-    for(int j=i; j<nums.size(); j++){
-        swap(nums[i],nums[j]);
-        solve(i+1,nums,ans);
-        swap(nums[i],nums[j]);
+    for(int i=0; i<n; i++){
+        if(!picked[i]){
+            res.push_back(nums[i]);
+            picked[i]=1;
+            permutations(n,res,ans,nums,picked);
+            picked[i]=0;
+            res.pop_back();
+        }
     }
 }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>>ans;
-        solve(0,nums,ans);
+        vvi ans;
+        int n=nums.size();
+        vi picked(n,0);
+        vi res;
+        permutations(n,res,ans,nums,picked);
         return ans;
     }
 };
