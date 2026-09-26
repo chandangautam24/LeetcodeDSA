@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0046-permutations) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0046-permutations) |
@@ -391,6 +394,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0766-toeplitz-matrix) |
@@ -425,4 +429,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
