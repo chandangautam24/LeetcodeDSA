@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0040-combination-sum-ii) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -394,6 +396,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0200-number-of-islands) |
