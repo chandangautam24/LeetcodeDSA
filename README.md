@@ -51,6 +51,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2643-row-with-maximum-ones](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2643-row-with-maximum-ones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -228,6 +229,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3689-maximum-total-subarray-value-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Stack
 |  |
@@ -332,6 +334,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Data Stream
 |  |
 | ------- |
