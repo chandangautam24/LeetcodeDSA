@@ -112,6 +112,7 @@
 | [0008-string-to-integer-atoi](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
@@ -234,6 +235,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0739-daily-temperatures) |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
@@ -445,6 +448,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Algorithm X
