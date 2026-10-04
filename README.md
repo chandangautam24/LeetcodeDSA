@@ -23,6 +23,7 @@
 | [0216-combination-sum-iii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0260-single-number-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [0525-contiguous-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0697-degree-of-an-array) |
@@ -71,6 +72,7 @@
 | [0037-sudoku-solver](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0525-contiguous-array) |
@@ -140,6 +142,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
@@ -327,6 +330,7 @@
 | [0018-4sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -341,6 +345,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Data Stream
 |  |
@@ -353,6 +358,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Binary Indexed Tree
 |  |
@@ -464,4 +470,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0037-sudoku-solver) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
