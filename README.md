@@ -125,6 +125,7 @@
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -245,6 +246,7 @@
 | [0234-palindrome-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -460,6 +462,7 @@
 | [0022-generate-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Algorithm X
