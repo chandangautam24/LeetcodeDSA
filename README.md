@@ -72,6 +72,7 @@
 | [0037-sudoku-solver](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0264-ugly-number-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -214,6 +215,7 @@
 | [0002-add-two-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0067-add-binary) |
+| [0264-ugly-number-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0728-self-dividing-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0728-self-dividing-numbers) |
 | [1037-valid-boomerang](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1037-valid-boomerang) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -320,6 +322,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0264-ugly-number-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [2140-solving-questions-with-brainpower](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2140-solving-questions-with-brainpower) |
@@ -346,6 +349,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2530-maximal-score-after-applying-k-operations) |
