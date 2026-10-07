@@ -121,6 +121,7 @@
 | [0079-word-search](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
@@ -163,6 +164,7 @@
 | [0113-path-sum-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
@@ -276,6 +278,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Union-Find
