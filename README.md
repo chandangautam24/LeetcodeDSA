@@ -54,6 +54,7 @@
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2643-row-with-maximum-ones](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -458,6 +459,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
 |  |
