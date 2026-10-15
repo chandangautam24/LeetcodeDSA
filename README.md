@@ -55,6 +55,7 @@
 | [2530-maximal-score-after-applying-k-operations](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2643-row-with-maximum-ones](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -91,6 +92,7 @@
 | [1386-cinema-seat-allocation](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1386-cinema-seat-allocation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -387,11 +389,13 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |
