@@ -42,6 +42,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1472-design-browser-history) |
 | [1732-find-the-highest-altitude](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -342,6 +343,7 @@
 | [0264-ugly-number-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0474-ones-and-zeroes](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2140-solving-questions-with-brainpower](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Sorting
