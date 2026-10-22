@@ -151,6 +151,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
 | ------- |
