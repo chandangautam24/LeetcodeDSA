@@ -145,6 +145,7 @@
 | [2287-rearrange-characters-to-make-target-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -234,6 +235,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chandangautam24/LeetcodeDSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2119-a-number-after-a-double-reversal](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2119-a-number-after-a-double-reversal) |
+| [2409-count-days-spent-together](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/chandangautam24/LeetcodeDSA/tree/master/2485-find-the-pivot-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chandangautam24/LeetcodeDSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
